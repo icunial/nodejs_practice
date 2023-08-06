@@ -1,9 +1,8 @@
-/* const Person = require("./person.js");
+const Person = require("./person.js");
 
 const person1 = new Person("John Doe", 30);
 
 person1.greeting();
- */
 
 /* const Logger = require("./logger");
 
